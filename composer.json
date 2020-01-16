@@ -1,5 +1,5 @@
 {
-    "name": "acme/hello-world",
+    "name": "fshch/hello-world",
     "require": {
         "monolog/monolog": "1.0.*"
     }
